@@ -4,6 +4,6 @@
 
 ## Pushing our own Docker image to 
 
-[Docker Hub](https://www.hub.docker.com)
+[Docker Hub](https://hub.docker.com/)
 
 > Image Name : "nodejs-local-image"
